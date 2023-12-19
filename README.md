@@ -1,3 +1,3 @@
 # Camping-Trip-Server
 
-This is the server portion of an online multiplayer videogame project I made in the Unity cross-platform game engine. Players would connect to this game server from their own client games across a network. Port forwarding is required if players need to connect to the game server from across a different network.
+This is the server portion of the online multiplayer videogame I made in my sophomore year of highschool using the cross-platform game engine Unity. Players connect to this game server from their game clients via a local wireless network.
